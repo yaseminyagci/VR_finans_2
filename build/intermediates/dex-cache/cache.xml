@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\bm 4.1\finansal bt\proje\finans\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cdcec43cf45828036b0a12c88602e60520eac00">
+        <dex dex="C:\Users\user\Desktop\bm 4.1\finansal bt\proje\finans\build\intermediates\pre-dexed\debug\unity-classes_849043135e09b1e92b1a267eaa6d2599e5a45a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\bm 4.1\finansal bt\proje\finans\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\user\Desktop\bm 4.1\finansal bt\proje\finans\build\intermediates\pre-dexed\debug\Vuforia_46fd280d1848350dc12b3464ce8b8090952fe2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\bm 4.1\finansal bt\proje\finans\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\user\Desktop\bm 4.1\finansal bt\proje\finans\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_6d8b5ebc3395b24e140dcda6f6c3345479122100.jar" />
+    </item>
+
+</items>

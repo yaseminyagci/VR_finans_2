@@ -1,0 +1,10 @@
+#Thu Dec 14 19:20:04 AST 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=C\:\\Users\\user\\Desktop\\finans\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Vuforia_118b625b6adc200b546f635f58f12f4410303347
+base.1=C\:\\Users\\user\\Desktop\\finans\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_d51d7e36125d01000b7103705442cbafb4f86979
+base.0=C\:\\Users\\user\\Desktop\\finans\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\VuforiaUnityPlayer_6151b56feffc0dc4a01002d9110e40c904ebdd49
+file.2=C\:\\Users\\user\\Desktop\\finans\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Vuforia_118b625b6adc200b546f635f58f12f4410303347\\classes.dex
+file.1=C\:\\Users\\user\\Desktop\\finans\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_d51d7e36125d01000b7103705442cbafb4f86979\\classes.dex
+file.0=C\:\\Users\\user\\Desktop\\finans\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\VuforiaUnityPlayer_6151b56feffc0dc4a01002d9110e40c904ebdd49\\classes.dex
